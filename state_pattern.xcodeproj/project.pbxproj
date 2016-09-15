@@ -14,6 +14,7 @@
 		8103F8E91D5F699B00AC1B62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8103F8E81D5F699B00AC1B62 /* Assets.xcassets */; };
 		8103F8EC1D5F699B00AC1B62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8103F8EA1D5F699B00AC1B62 /* LaunchScreen.storyboard */; };
 		8103F8F51D5F6A2200AC1B62 /* StatePattern.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103F8F41D5F6A2200AC1B62 /* StatePattern.m */; };
+		81FCF8361D8B122400A808BB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 81FCF8351D8B122400A808BB /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8103F8ED1D5F699B00AC1B62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8103F8F41D5F6A2200AC1B62 /* StatePattern.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatePattern.m; sourceTree = "<group>"; };
 		8103F8F61D5F6A3600AC1B62 /* StatePattern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StatePattern.h; sourceTree = "<group>"; };
+		81FCF8351D8B122400A808BB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		8103F8D01D5F699A00AC1B62 = {
 			isa = PBXGroup;
 			children = (
+				81FCF8351D8B122400A808BB /* LICENSE */,
 				8103F8DB1D5F699B00AC1B62 /* state_pattern */,
 				8103F8DA1D5F699B00AC1B62 /* Products */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				8103F8EC1D5F699B00AC1B62 /* LaunchScreen.storyboard in Resources */,
 				8103F8E91D5F699B00AC1B62 /* Assets.xcassets in Resources */,
+				81FCF8361D8B122400A808BB /* LICENSE in Resources */,
 				8103F8E71D5F699B00AC1B62 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,6 +320,7 @@
 				8103F8F21D5F699B00AC1B62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
